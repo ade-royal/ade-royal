@@ -1,8 +1,8 @@
 ### Hi there! 👋 I'm Royal!
 
-I'm a **Computer Systems Engineering student** at the University of Georgia, driven by a passion for **hardware-software integration** and **bridging the gap** between physical systems and robust software solutions.
+I'm a **Computer Engineering student** at the University of Georgia, driven by a passion for **hardware-software integration** and **bridging the gap** between physical systems and robust software solutions.
 
-I enjoy solving real-world problems by building systems that are both **efficient and scalable**.
+I enjoy solving real-world problems by building systems that are both **efficient and scalable**, from embedded and robotic systems to software platforms.
 
 ---
 
@@ -10,25 +10,42 @@ I enjoy solving real-world problems by building systems that are both **efficien
 
 My foundation is built on a diverse set of skills:
 
-* **Programming Languages:** Python, Java, C/C++ HTML/CSS, and MATLAB.
-* **Engineering Skills:** Circuit Design, Microcontroller Programming, and Performance Analysis.
-* **Software Principles:** Object-Oriented Programming (OOP), Version Control (Git), and Agile Methodologies.
+* **Programming Languages:** Python, C/C++, Java, HTML/CSS, JavaScript, Verilog HDL, and MATLAB.
+* **Tools:** Linux/Unix, Git/GitHub, React Native, PostgreSQL, VS Code, Arduino IDE, FastAPI, SQLAlchemy, KiCad.
+* **Hardware:** Microcontrollers (ESP32), PCB Design, FPGA Development, Digital Logic Design, Analog Signal Conditioning, Circuit Analysis, 3D Printing.
+* **Certifications:** Dell Prompt Engineering (2026),Google Cybersecurity Professional (2025)
 
 ---
 
 ### 🌱 Current Focus & Interests
 
-I am currently seeking to apply classroom concepts to practical solutions in the following areas:
+I am currently focused on applying classroom concepts to practical engineering projects in:
 
 * **Embedded Systems & Robotics**
 * **Automation**
 * **Software Engineering**
+* **AI & Machine Learning**
+* **Project/Product Management** 
 
-I am always looking to contribute to projects that drive innovation in fields like **Autonomous Systems** and **Sustainable Technology**.
+I am especially interested in **hardware-software integration**, **autonomous systems**, and building technology that solves real-world problems.
+
+_but im truly open to anything!_
+
+---
+
+### 🚀 For Those Interested in Rivet Labs
+
+I'm also the **Founder of Rivet Labs**, a university-focused software startup building a platform for campus paratransit.
+
+Rivet connects **students, drivers, and transportation administrators** through a single platform designed around the way university transportation programs operate.
+
+My role focuses on **customer discovery, university outreach, product management, and defining product workflows and requirements**, while working alongside our technical team to develop the platform.
+
+🌐 **Learn more:** [rivetlabsllc.com](https://www.rivetlabsllc.com)
 
 ---
 
 ### 📫 Let's Connect!
 
-* **LinkedIn:** [https://www.linkedin.com/in/royal-adegunloye/](https://www.linkedin.com/in/royal-adegunloye/)
-* **GitHub Pinned Repos:** Check out my pinned projects to see my latest work on tangible, impactful systems!
+* **LinkedIn:** [linkedin.com/in/royal-adegunloye](https://www.linkedin.com/in/royal-adegunloye/)
+* **GitHub:** Check out my pinned repositories to see some of the engineering projects I'm currently working on.
